@@ -1,0 +1,9 @@
+.info__title {
+    font-weight: 400;
+    line-height: 80px;
+    text-align: left;
+    width: 60%;
+    margin: 0;
+    font-family: "Roboto";
+    font-size: 72px;
+}

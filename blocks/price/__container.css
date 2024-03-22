@@ -1,0 +1,8 @@
+.price__container {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 47px;
+    padding: 0 32px;
+    width: 100%;
+}

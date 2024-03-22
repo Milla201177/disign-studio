@@ -1,0 +1,11 @@
+.feedback__container-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    padding-top: 64px;
+    padding-bottom: 172px;
+    align-items: flex-start;
+    row-gap: 108px;
+    justify-content: center;
+}

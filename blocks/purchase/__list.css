@@ -1,0 +1,11 @@
+.purchase__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+    font-size: 54px;
+    line-height: 80px;
+    font-family: "Roboto";
+}

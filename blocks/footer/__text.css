@@ -1,0 +1,7 @@
+.footer__text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Cardo;
+    line-height: 24px;
+}

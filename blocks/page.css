@@ -1,0 +1,9 @@
+.page {
+    padding: 100px 64px 32px;
+    margin: 0 auto;
+    text-align: center;
+    background: #FFFFFF;
+    font-family: Cardo;
+    font-size: 17px;
+    line-height: 25px;
+}

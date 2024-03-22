@@ -1,0 +1,9 @@
+.price__list {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    padding-top: 85px;
+    padding-bottom: 118px;
+    text-align: left;
+    margin: 0 auto;
+}

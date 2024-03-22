@@ -1,0 +1,7 @@
+.price__container-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 94%;
+    align-items: flex-end;
+}

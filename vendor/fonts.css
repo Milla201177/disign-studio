@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Lato";
+    font-weight: 400;
+    src: local("Lato"),
+    url(../fonts/Lato/Lato.woff) format("woff"),
+    url(../fonts/Lato/Lato.ttf) format("ttf");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-weight: 400;
+    src: local("Roboto"),
+    url(../fonts/Roboto/Roboto.woff) format("woff"),
+    url(../fonts/Roboto/Roboto.ttf) format("ttf");
+}
+
+@font-face {
+    font-family: "Cardo";
+    font-weight: 400;
+    src: local("Cardo"),
+    url(../fonts/Cardo/Cardo.woff) format("woff"),
+    url(../fonts/Cardo/Cardo.ttf) format("ttf");
+}
+

@@ -1,0 +1,6 @@
+.about-me__text-container {
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+    padding-bottom: 37px;
+}

@@ -1,0 +1,8 @@
+.button__small {
+    height: 35px;
+    border-radius: 35px;
+    border: solid 1px;
+    background: #FFFFFF;
+    text-transform: lowercase;
+    padding: 5px 27px;
+}
