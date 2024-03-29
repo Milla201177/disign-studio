@@ -1,4 +1,4 @@
-.link-hover {
+.link-hover:hover {
     cursor: pointer;
     outline: none;
     transform: scale(1.1);
