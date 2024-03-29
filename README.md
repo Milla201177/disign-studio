@@ -1,4 +1,4 @@
-[# сайт дизайн-студии](https://milla201177.github.io/disign-studio/)  
+[#сайт дизайн-студии](https://milla201177.github.io/disign-studio/)  
 
 Информация по верстке
 -
